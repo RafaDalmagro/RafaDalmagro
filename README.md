@@ -11,9 +11,9 @@
   <li>🔍 Curious and motivated to understand how things work</li>
   <li>📚 Focused on continuous learning and constant improvement</li>
   <li>🤝 Strong communication, organization, and team-collaboration skills</li>
-  <li>🚀 Goal: land my first opportunity as a Web Developer</li>
   <li>🎯 Committed to quality, innovation, and results</li>
-  <li>🌐 Portfolio: <a href="https://rafadalmagro.com.br">rafadalmagro.com.br</a></li>
+  <li>🚀 Goal: land my first opportunity as a Web Developer</li>
+  <li>🌐 Contact me: <a href="https://rafadalmagro.com.br">my site</a>, <a href="in/rafadalmagro">linkedin</a> or <a href="https://www.instagram.com/_leafarel/">instagram</a>.</li>
 </ul>
 
 <h3> Tech Stack</h3>

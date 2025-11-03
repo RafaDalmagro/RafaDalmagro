@@ -1,98 +1,49 @@
-<h1 align="left">Welcome, stranger! My name is Rafael Dalmagro.<br><br>Enjoy it and "Just keep coding".</h1>
+<h1 align="left">Welcome, stranger!</h1>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ4bHY5YTdnb3RsajJmdzU1NWZmam5uN3gyMjNqYTN6bGg0NDl6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dQPW6UlGF8A2valFS/giphy.gif" alt="Gif Darksouls" width="120" height="67.5" />
+<strong>Hi, I'm Rafa. Enjoy it and "Just keep coding".</strong>
 
-###
+<h2>About me</h2>
 
-<br clear="both">
+<ul>
+  <li>🎓 Information Systems undergraduate student</li>
+  <li>💻 Career transition into Web Development</li>
+  <li>🛠️ 4 years of experience in Technical Support</li>
+  <li>🔍 Curious and motivated to understand how things work</li>
+  <li>📚 Focused on continuous learning and constant improvement</li>
+  <li>🤝 Strong communication, organization, and team-collaboration skills</li>
+  <li>🚀 Goal: land my first opportunity as a Web Developer</li>
+  <li>🎯 Committed to quality, innovation, and results</li>
+  <li>🌐 Portfolio: <a href="https://rafadalmagro.com.br">rafadalmagro.com.br</a></li>
+</ul>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaDalmagro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDalmagro&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
+<h3> Tech Stack</h3>
+
+<div align="start">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
+</div>
+
+<h4>Github interactions</h4>
+
+<div align="start">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaDalmagro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  </div>
+  <div>  
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDalmagro&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
+  </div>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+<div align="start">
+  <strong>Bye bye!</strong>
+  <img height="60" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafadalmagro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="extreme0000" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_leafarel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@extremezada" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
-  </a>
-  <a href="rafa.limadalmagro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="250" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/extremedeth">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=extremedeth&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaDalmagro/RafaDalmagro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaDalmagro/RafaDalmagro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaDalmagro/RafaDalmagro/output/pacman-contribution-graph.svg">
-</picture>
-
-###

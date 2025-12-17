@@ -13,22 +13,12 @@
   <li>🤝 Strong communication, organization, and team-collaboration skills</li>
   <li>🎯 Committed to quality, innovation, and results</li>
   <li>🚀 Goal: land my first opportunity as a Web Developer</li>
-  <li>🌐 Contact me: <a href="https://rafadalmagro.com.br">my site</a>, <a href="in/rafadalmagro">linkedin</a> or <a href="https://www.instagram.com/_leafarel/">instagram</a>.</li>
+  <li>🌐 Contact me: <a href="https://rafadalmagro.com.br">my site</a>, <a href="in/rafadalmagro">linkedin</a> or <a href="https://www.instagram.com/_leafarel/">instagram</a></li>
 </ul>
 
 <h3> Tech Stack</h3>
 
-<div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,docker,postgres,prisma,jest,git,figma&perline=5)](https://skillicons.dev)
 
 <h4>Github interactions</h4>
 

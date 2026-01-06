@@ -23,9 +23,6 @@
 <h4>Github interactions</h4>
 
 <div align="start">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaDalmagro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  </div>
   <div>  
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaDalmagro&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
   </div>
